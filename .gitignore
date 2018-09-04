@@ -1,0 +1,4 @@
+*.o
+chat_run
+client-*
+Serverlog.txt
